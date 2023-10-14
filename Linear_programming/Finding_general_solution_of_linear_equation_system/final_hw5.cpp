@@ -1,5 +1,5 @@
 // Computing the General Solution to Ax=b using the NEWMAT library
-// Written by Prof. R.S. Sreenivas for IE523: Financial Computing
+// Modified by Kamin Atsavasirilert from Prof. R.S. Sreenivas's work for IE523: Financial Computing
 
 #include <iostream>
 #include <iomanip>
